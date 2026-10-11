@@ -220,6 +220,7 @@ AI assistance is used to understand data-analysis concepts, explain Python code,
 
 AI provides explanations and helps interpret analytical concepts. Python, Pandas, and visualizations are used to perform and verify the actual analysis. Final conclusions are based on the project's analytical results.
 ---
+For detailed AI workflow documentation and representative prompts, see [AI_Workflow.md](AI_Workflow.md).
 
 ## Key Skills Demonstrated
 
