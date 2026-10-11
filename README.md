@@ -191,7 +191,34 @@ Data-Analytics-Project/
 │
 └── README.md
 ```
+## AI-Assisted Analysis Workflow
 
+AI assistance is used to understand data-analysis concepts, explain Python code, interpret analytical results, and support documentation.
+
+### 1. Understanding the Dataset
+
+- Understand the information available in the dataset.
+- Identify important columns for delivery performance analysis.
+- Understand the purpose of data inspection methods such as `df.head()` and `df.info()`.
+- Identify missing values and understand their possible impact on analysis.
+
+### 2. Data Cleaning and Analysis
+
+- Understand the importance of data cleaning and data quality checks.
+- Explain how actual shipping days can be compared with scheduled shipping days.
+- Understand how to analyze order profitability using `Order Profit Per Order`.
+- Explore delivery delays across shipping modes, regions, and product departments.
+
+### 3. Insights and Visualization
+
+- Understand how visualizations help identify delivery patterns.
+- Interpret delivery delay percentages across shipping modes.
+- Explore the relationship between delivery delays and profit at risk.
+- Identify seasonal and hourly delivery patterns to support business recommendations.
+
+### Role of AI
+
+AI provides explanations and helps interpret analytical concepts. Python, Pandas, and visualizations are used to perform and verify the actual analysis. Final conclusions are based on the project's analytical results.
 ---
 
 ## Key Skills Demonstrated
